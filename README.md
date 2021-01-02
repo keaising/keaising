@@ -1,6 +1,5 @@
+linkedin: [@wangshuxiao](https://www.linkedin.com/in/wangshuxiao/)
 
-### Hello there! My name is Shuxiao Wang
+blog: [.wang](https://shuxiao.wang)
 
-- https://www.linkedin.com/in/wangshuxiao/
-- https://shuxiao.wang
-- mailto:keaising@gmail.com
+email: [@keaising](mailto:keaising@gmail.com)
