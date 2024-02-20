@@ -1,10 +1,14 @@
-A driven and goal-oriented software developer with 5+ years of experience.
+A goal-oriented **senior backend engineer** with 7 years of experience.
 
-Specialist in system design and coordination; strong skills in Golang, C#.
++ Strong skills in Go, familiar with C#, Python, Lua and Javascript.
++ Deep understanding on Design Pattern, OOP, and RESTful API.
++ [Linux user](https://github.com/keaising/dotfile), familiar with macOS and Windows/WS
 
-I'm looking for a job in Germany, feel free to contact me through:
+A team player, can collaborate with manager and colleagues to deliver well-designed and easy to maintain solutions.
 
-linkedin: [@wangshuxiao](https://www.linkedin.com/in/wangshuxiao/)
+I'm looking for a job in Netherlands, feel free to contact me through:
+
+linkedin: [@shuxiaowang](https://www.linkedin.com/in/shuxiaowang/)
 
 blog: [shuxiao.wang](https://shuxiao.wang)
 
