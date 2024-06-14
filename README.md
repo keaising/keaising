@@ -1,6 +1,6 @@
 A goal-oriented **senior backend engineer** with 7 years of experience.
 
-+ Strong skills in Go, familiar with Java, Python, Lua and Javascript.
++ Strong skills in Java, Python, Go, familiar with Lua and Javascript.
 + Deep understanding of Design Pattern, OOP, and RESTful API.
 + [Linux user](https://github.com/keaising/dotfile), Docker, CI/CD, AWS.
 + Goal-oriented, with excellent problem-solving skills and the ability to work in a fast-paced, dynamic and remote environment.
