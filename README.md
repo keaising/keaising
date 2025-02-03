@@ -1,4 +1,4 @@
-A goal-oriented **senior backend engineer** with 7 years of experience.
+A goal-oriented **senior backend engineer** with 8 years of experience.
 
 + Strong skills in Go and Typescript, familiar with Python, Javascript, C#.
 + Deep understanding of Design Pattern, OOP, and RESTful API.
