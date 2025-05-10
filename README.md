@@ -6,7 +6,7 @@ A goal-oriented **senior backend engineer** with 8 years of experience.
 + Goal-oriented, with excellent problem-solving skills and the ability to work in a fast-paced, dynamic and remote environment.
 + Strong communication skills and the ability to collaborate effectively with cross-functional teams.
 
-I'm looking for a job in **Europe** or **remotely**, feel free to contact me via:
+Feel free to contact me via:
 
 linkedin: [@shuxiaowang](https://www.linkedin.com/in/shuxiaowang/)
 
